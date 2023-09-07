@@ -11,4 +11,4 @@ By default:
 - Password: 12345678 
 - IP: 192.168.4.1
 
-To access the wifi configuration page: IP-ADDRESS/setupwifi/
+To access the wifi configuration page: http://IP-ADDRESS/setupwifi/
