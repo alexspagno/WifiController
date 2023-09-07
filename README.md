@@ -1,5 +1,5 @@
 # WifiController
-Library for for esp32 wifi managemen.
+Library for for esp32 wifi management.
 - Connection check with reconnection attempts
 - AccessPoint activation for new network configuration
 - Web configuration for Network scan and selection
